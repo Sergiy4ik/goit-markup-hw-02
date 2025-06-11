@@ -1,7 +1,32 @@
-
 *{    font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    font-variation-settings:
-      "width" 100;}
+}
+
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.header-navigation {
+    font-weight: 500;
+}
+
+.first-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.second-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
