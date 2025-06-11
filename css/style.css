@@ -22,7 +22,7 @@ body {
     color: #404bbf;
 }
 
-.header-address {
+.header-address-link {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -31,11 +31,11 @@ body {
     color: #434455;
 }
 
-.header-address:hover {
+.header-address-link:hover {
     color: #404bbf;
 }
 
-.header-address:focus {
+.header-address-link:focus {
     color: #404bbf;
 }
 
