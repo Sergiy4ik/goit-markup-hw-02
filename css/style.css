@@ -7,23 +7,11 @@ body {
     background-color: #FFFFFF;
 }
 
-.header-navigation {
+.header-navigation:hover {
     font-weight: 500;
 }
 
 .header-navigation-studio {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.header-navigation-portfolio {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.header-navigation-contacts {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
