@@ -63,6 +63,33 @@ body {
     color: #2e2f42;
 }
 
+.hero-page {
+    background-color: #2e2f42;;
+}
+
+.hero-page-text {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-page-button {
+    background-color: #4d5ae5;
+    width: 169px;
+    height: 56px;
+}
+
+.hero-page-button-text{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
 .footer {
     background-color: #2e2f42;
 }
