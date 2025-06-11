@@ -13,13 +13,13 @@ body {
 
 .header-navigation-studio {
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .header-navigation-portfolio {
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -31,13 +31,13 @@ body {
 
 .header-navigation-portfolio {
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .header-navigation-contacts {
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
