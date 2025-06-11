@@ -87,11 +87,11 @@ body {
 }
 
 .hero-page-button:hover {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .hero-page-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .footer {
