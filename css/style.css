@@ -14,10 +14,6 @@ body {
     color: #2e2f42;
 }
 
-.header-address {
-    font-style: normal;
-}
-
 .gmail {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -28,10 +24,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-a:hover {
-    color: #404bbf;
 }
 
 .first-logo {
