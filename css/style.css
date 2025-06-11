@@ -22,6 +22,18 @@ body {
     color: #404bbf;
 }
 
+.header-address {
+    font-style: normal;
+}
+
+.header-address:hover {
+    color: #404bbf;
+}
+
+.header-address:focus {
+    color: #404bbf;
+}
+
 .gmail {
     line-height: 1.5;
     letter-spacing: 0.02em;
