@@ -7,8 +7,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.header-navigation-link:focus {
-    color: #404bbf;
+.header-navigation-link {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
