@@ -14,6 +14,14 @@ body {
     color: #2e2f42;
 }
 
+.header-navigation-link:hover {
+    color: #404bbf;
+}
+
+.header-navigation-link:focus {
+    color: #404bbf;
+}
+
 .gmail {
     line-height: 1.5;
     letter-spacing: 0.02em;
