@@ -11,6 +11,56 @@ body {
     font-weight: 500;
 }
 
+.header-navigation-studio {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.header-navigation-portfolio {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.header-navigation-contacts {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.header-navigation-portfolio {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.header-navigation-contacts {
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.header-address {
+    font-style: normal;
+}
+
+.gmail {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.tel {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+a:hover {
+    color: #404bbf;
+}
+
 .first-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
